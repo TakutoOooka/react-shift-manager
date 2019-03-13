@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+*.log*
+chrome-user-data
+*.sublime-project
+*.sublime-workspace
+.idea
+*.iml
+.vscode
+*.swp
+*.swo

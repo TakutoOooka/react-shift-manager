@@ -1,0 +1,37 @@
+# install webpack packages
+yarn add -D webpack-cli webpack webpack-dev-server html-webpack-plugin
+
+# install babels
+yarn add -D @babel/cli @babel/node @babel/preset-env @babel/preset-react babel-loader
+
+# install loaders
+yarn add -D css-loader style-loader
+
+# install react lib
+yarn add -D react react-dom
+
+# install server lib
+yarn add -D express
+
+# install nodemon: keep watch node files, concurrently: Parallel commands executor
+$ yarn add -D nodemon concurrently
+
+# install proxy server lib
+$ yarn add -D webpack-merge
+
+# configuration lib
+$ yarn add -D config
+
+# install logger
+$ yarn add -D log4js
+
+# test framework(jest)
+$ yarn add -D jest babel-jest react-test-renderer
+
+# node fetch
+$ yarn add -D node-fetch
+
+$ yarn add -D babel-eslint eslint eslint-plugin-jest eslint-plugin-react
+
+
+$ yarn add -D prop-types
